@@ -1,4 +1,4 @@
 # toolgallery
 Exercise during ACDH workshop 
 
-Aurhor: Bruno
+Author: Bruno
